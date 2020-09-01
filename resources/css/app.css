@@ -1,0 +1,29 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: Sky Text;
+  font-weight: 400;
+  src: url(/fonts/sky-text-regular.woff) format("woff");
+}
+@font-face {
+  font-family: Sky Text;
+  font-weight: 500;
+  src: url(/fonts/sky-text-medium.woff) format("woff");
+}
+@font-face {
+  font-family: Sky Text;
+  font-weight: 700;
+  src: url(/fonts/sky-text-bold.woff) format("woff");
+}
+@font-face {
+  font-family: Sky Text;
+  font-weight: 400;
+  font-style: italic;
+  src: url(/fonts/sky-text-italic.woff) format("woff");
+} 
+
+
